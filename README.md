@@ -1,3 +1,3 @@
-# Github Finder with Vanilla JavaScript.
+# Github Finder using Vanilla JavaScript.
 
 
